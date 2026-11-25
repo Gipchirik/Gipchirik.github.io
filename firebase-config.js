@@ -1,11 +1,11 @@
 /* Данные проекта Firebase. Эти ключи не секретные, их можно хранить в открытом репозитории. */
 const firebaseConfig = {
-  apiKey: "ЗАМЕНИ_НА_СВОЙ_API_KEY",
-  authDomain: "ЗАМЕНИ.firebaseapp.com",
-  projectId: "ЗАМЕНИ_НА_ID_ПРОЕКТА",
-  storageBucket: "ЗАМЕНИ.firebasestorage.app",
-  messagingSenderId: "ЗАМЕНИ",
-  appId: "ЗАМЕНИ"
+  apiKey: "AIzaSyBjQaB6ziyZi1VLQACheqzvAtbSJBjE8u8",
+  authDomain: "gipchirik-site.firebaseapp.com",
+  projectId: "gipchirik-site",
+  storageBucket: "gipchirik-site.firebasestorage.app",
+  messagingSenderId: "491799494463",
+  appId: "1:491799494463:web:9d97fb5d777a938cf59d8a"
 };
 
 window.firebaseConfig = firebaseConfig;
